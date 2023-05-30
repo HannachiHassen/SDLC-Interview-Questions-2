@@ -4,8 +4,8 @@ The Software Development Life Cycle, or SDLC, is a method for producing high-qua
 In this blog, you will come across some of the important questions and answers that would help you crack SDLC interviews. 
 
 These questions are divided into two categories, one part is for freshers and the other for experienced professionals. So, let’s get started.
-- SDLC Interview Questions for  Freshers
-- SDLC Interview Questions for Experienced
+- [SDLC Interview Questions for  Freshers](https://github.com/HannachiHassen/SDLC-Interview-Questions-2/tree/main/README.md#sdlc-interview-questions-for-freshers)
+- [SDLC Interview Questions for Experienced](https://github.com/HannachiHassen/SDLC-Interview-Questions-2/tree/main/README.md#sdlc-interview-questions-for-experienced)
 
 # SDLC Interview Questions for Freshers
 ## 1. What is SDLC?
@@ -33,3 +33,37 @@ Following are some of the points that briefly describes the importance of the SD
 - Testing: Before making an application available to users, it's vital to test it. The testing team examines the system's overall functionality. This phase aids with reducing the number of faults and issues seen by consumers. As a result, there is a higher level of user satisfaction and a higher rate of utilisation.
 - Deployment: Once the product has been thoroughly tested and is ready for deployment, it is made available to customers. The deployment's complexity is determined by the project's size. Many businesses prefer to have the deployment step automated.
 - Maintenance: The developed product is looked after throughout this period. The programme is updated on a regular basis to keep up with the changing user end environment or technology. Users find flaws that were not discovered during testing. These issues must be addressed, which may result in new development cycles
+
+## 4. Explain the types of SDLC models.
+
+Following are the predominant models that come under SDLC:
+
+   - Waterfall model: The waterfall model is a prominent software engineering and product development approach that takes a linear, sequential approach to the software development life cycle (SDLC). The waterfall approach emphasises a logical step-by-step process. It was the first model in the software business to be extensively adopted. It is divided into phases, with one phase's output becoming the input for the next. Learn More.
+   - Agile model: Agile approaches divide jobs into smaller iterations or sections and avoid long-term planning entirely. The scope and requirements of the project are defined at the start of the development phase. The number of iterations, duration, and scope of each iteration are all clearly determined ahead of time. In the Agile process model, each iteration is a small-time "frame" that lasts anywhere from one to four weeks. Learn More.
+   - Iterative model: One of the most straightforward software development life cycle models is the iterative approach. There are several situations when the initial or basic software requirements are well-defined, but the project's complete scope or set of features is unclear. It primarily focuses on preliminary growth and design, then gradually develops momentum as more complex and needs are met until the final software is completely constructed. Learn More.
+   - Spiral model: The spiral model is a risk management strategy that combines the iterative development process model with parts of the Waterfall approach. The spiral approach is preferred by software engineers for large, expensive, and complex projects. Learn More.
+   - V-model model: The V-model is an SDLC paradigm in which processes are executed in a V-shape in a sequential manner. The Verification and Validation model is another name for it. The waterfall model is extended by the V-Model. Every phase of the development cycle has a testing phase that is directly linked to it. Learn More
+
+## 5. What is SRS?
+A Software Requirements Specification (SRS) is a document that explains what the software will accomplish and how it will work. It is a formal report that serves as a representation of software and allows customers to assess whether it (SRS) meets their needs. It also outlines the functionality that the product must have in order to meet the needs of all stakeholders. This report is created after all requirements have been solicited and analysed, and it serves as a foundation for software engineering tasks.
+
+## 6. What is a Feasibility Study?
+
+As the name implies, a feasibility study is an analysis or measurement of a software product in terms of how advantageous product development will be for the business in terms of practicality. It determines whether the project is legally, technically, and commercially feasible.
+
+## 7. What is the testing phase in the SDLC model?
+
+## 8. Which SDLC model is best and Why?
+
+## 9. What are the advantages of the SDLC process?
+
+## 10. What are the disadvantages of the SDLC process?
+
+## 11. Explain HLD.
+
+## 12. Explain LLD.
+
+# SDLC Interview Questions for Experienced
+
+## 13. What is the use of JAD session?
+
