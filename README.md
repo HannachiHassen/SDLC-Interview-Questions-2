@@ -51,19 +51,25 @@ A Software Requirements Specification (SRS) is a document that explains what the
 
 As the name implies, a feasibility study is an analysis or measurement of a software product in terms of how advantageous product development will be for the business in terms of practicality. It determines whether the project is legally, technically, and commercially feasible.
 
-## 7. What is the testing phase in the SDLC model?
+## 7. What is the testing phase in the SDLC model
+One of the most important procedures in the Software Development Lifecycle is testing (SDLC). It enables businesses to do a thorough evaluation of software and verify that their product meets the expectations of their customers. The testing procedures' main purpose is to report, monitor, troubleshoot, and retest software components until they meet the quality requirements established in the initial SRS. During the testing phase, there are numerous forms of testing, including quality assurance testing (QA), system integration testing (SIT), and user acceptability testing (UAT).
 
-## 8. Which SDLC model is best and Why?
+## 8. Which SDLC model is best and Why
+According to the annual State of Agile report, Agile is the best SDLC methodology and also one of the most widely utilised SDLC in the IT industry. Unlike other predictive approaches, the adaptive agile methodology does not necessitate comprehensive preparation. If a change is required, it can be made during the sprint. It's ideal for projects that require a lot of customer involvement and projects that have a constantly changing environment.
 
-## 9. What are the advantages of the SDLC process?
+## 9. What are the advantages of the SDLC process
+At the end of each stage, a formal review is established to provide for maximum management oversight. SDLC aids in the creation of extensive system documentation. This guarantees that system needs can be linked to specified business goals. It generates a large number of intermediate products that may be evaluated to see if they fit the user's requirements and adhere to industry standards. These can be improved further if necessary, ensuring that the company receives exactly what it requires.
 
-## 10. What are the disadvantages of the SDLC process?
+## 10. What are the disadvantages of the SDLC process
+Before you begin, make sure you understand all of the details of the project. During the development phase, there was a lot of paperwork. It is difficult to alter or change due to a lack of flexibility. If the planning isn't done properly, the project will take longer and cost more. When there are a lot of flaws in the code, fixing them can take a long time and cause deadlines to be missed.
 
-## 11. Explain HLD.
+## 11. Explain HLD
+It refers to the general design of the system. It describes the application's overall description and architecture. It includes a system architecture description, database design, a brief overview of systems, services, platforms, and module relationships. From the primary module to all submodules, it creates the overall architecture of the system. Architects will provide the High-Level Design in order to begin the development process. This is quite helpful for developers in comprehending the system's flow
 
-## 12. Explain LLD.
+## 12. Explain LLD
+LLD (Low-LevelLevel Design) is a term that refers to the process of detailing. It provides a full description of each module, including actual logic for each system component and a thorough examination of each module's specifications. Every program undergoes logic design, which is subsequently recorded as program specifications. A unit test plan is prepared for each software. The micro-level or intricate design is another name for it. After the High-Level Design, the Low-Level Design is created.
 
 # SDLC Interview Questions for Experienced
 
-## 13. What is the use of JAD session?
+## 1. What is the use of JAD session
 
