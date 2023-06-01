@@ -72,4 +72,20 @@ LLD (Low-LevelLevel Design) is a term that refers to the process of detailing. I
 # SDLC Interview Questions for Experienced
 
 ## 1. What is the use of JAD session
+JAD is a strategy for defining business system requirements that are commonly utilised in the early phases of a systems development project. JAD's goal is to bring MIS and end-users together in a structured workshop setting in order to extract outcome system needs. It allows clients and developers to swiftly agree on a project's fundamental scope, objectives, and specifications.
 
+## 2. What is the Software release process
+The Software Development Life Cycle (SDLC) release phase is historically connected with production, deployment, and post-production operations, which generally include software maintenance and support. So, release management is the process of managing, planning, scheduling, and controlling a full software development at every stage and environment, including testing and releasing software releases.
+
+## 3. What is FRS document
+This document captures the user's voice from the outside, or the end user's perspective. A Business System Analyst creates it (BSA). This paper demonstrates how a system will react when a user interacts with it in order to meet the BRD and SRD standards. The key area of interest for software experts is the Functional Requirement Specification (FRS). An FRS is useful for software testers to learn the situations in which the product is intended to be tested, just as it is for developers to understand what product they are planning to produce. An FRS's ultimate purpose is to meet all of the requirements outlined in the SRS and BRS regulations.
+
+## 4. Explain prototyping in SDLC process
+Building software application prototypes that display the capabilities of the product under development, but may not have the exact logic of the original software, is referred to as software prototyping. It's built, tested, and revised until it's deemed suitable as a prototype. It also serves as a foundation for the final system or programme. It's best used in situations where the project's requirements aren't fully understood. Software prototyping is gaining popularity as a software development strategy because it allows for an early understanding of customer requirements.
+
+## 5. What are different types of prototype model
+There are four types of Prototyping models:
+- Rapid Throwaway prototypes.
+- Evolutionary prototype.
+- Incremental prototype.
+- Extreme prototype. 
