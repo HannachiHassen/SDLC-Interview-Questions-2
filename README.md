@@ -26,13 +26,14 @@ Following are some of the points that briefly describes the importance of the SD
    - It aids in the reduction of project risk and overhead in the project administration plan.
 
 ## 3. Explain the phases in a typical SDLC process briefly.
-- Planning: The first stage of the SDLC is all about determining, what do clients want. Project planning is an important component of the software delivery lifecycle because it is here that the team estimates the cost and outlines the new program's needs.
-- Gathering Requirements: Defining requirements is part of the planning process to figure out what the application is supposed to perform and what it needs. The development team examines the requirements while keeping the software's design and code in mind.
-- Design: The following phase entails distilling all of the software project's requirements, analysis, and design information. This phase is the culmination of the previous two, such as customer feedback and requirement collecting. It is a simulation of how a software application will work. Some particulars of this phase are architecture, platform, security and user interface.
-- Development: This is where the code is really written. Writing code is the first step in putting a design into action. Developers must adhere to the coding requirements set forth by their bosses. Many other jobs are included in the coding process. Many developers need to brush up on their abilities or collaborate with others. It's vital to find and resolve problems and flaws. If any changes or upgrades are needed, the developers can show the work to the business analysts.
-- Testing: Before making an application available to users, it's vital to test it. The testing team examines the system's overall functionality. This phase aids with reducing the number of faults and issues seen by consumers. As a result, there is a higher level of user satisfaction and a higher rate of utilisation.
-- Deployment: Once the product has been thoroughly tested and is ready for deployment, it is made available to customers. The deployment's complexity is determined by the project's size. Many businesses prefer to have the deployment step automated.
-- Maintenance: The developed product is looked after throughout this period. The programme is updated on a regular basis to keep up with the changing user end environment or technology. Users find flaws that were not discovered during testing. These issues must be addressed, which may result in new development cycles
+![SDLC](/READM/phases_in_a_typical_SDLC.png)
+- **Planning**: The first stage of the SDLC is all about determining, what do clients want. Project planning is an important component of the software delivery lifecycle because it is here that the team estimates the cost and outlines the new program's needs.
+- **Gathering Requirements**: Defining requirements is part of the planning process to figure out what the application is supposed to perform and what it needs. The development team examines the requirements while keeping the software's design and code in mind.
+- **Design**: The following phase entails distilling all of the software project's requirements, analysis, and design information. This phase is the culmination of the previous two, such as customer feedback and requirement collecting. It is a simulation of how a software application will work. Some particulars of this phase are architecture, platform, security and user interface.
+- **Development**: This is where the code is really written. Writing code is the first step in putting a design into action. Developers must adhere to the coding requirements set forth by their bosses. Many other jobs are included in the coding process. Many developers need to brush up on their abilities or collaborate with others. It's vital to find and resolve problems and flaws. If any changes or upgrades are needed, the developers can show the work to the business analysts.
+- **Testing**: Before making an application available to users, it's vital to test it. The testing team examines the system's overall functionality. This phase aids with reducing the number of faults and issues seen by consumers. As a result, there is a higher level of user satisfaction and a higher rate of utilisation.
+- **Deployment**: Once the product has been thoroughly tested and is ready for deployment, it is made available to customers. The deployment's complexity is determined by the project's size. Many businesses prefer to have the deployment step automated.
+- **Maintenance**: The developed product is looked after throughout this period. The programme is updated on a regular basis to keep up with the changing user end environment or technology. Users find flaws that were not discovered during testing. These issues must be addressed, which may result in new development cycles
 
 ## 4. Explain the types of SDLC models.
 
@@ -45,6 +46,7 @@ Following are the predominant models that come under SDLC:
    - **V-model model**: The V-model is an SDLC paradigm in which processes are executed in a V-shape in a sequential manner. The Verification and Validation model is another name for it. The waterfall model is extended by the V-Model. Every phase of the development cycle has a testing phase that is directly linked to it. [Learn More](https://www.interviewbit.com/blog/v-model/)
 
 ## 5. What is SRS?
+![SRS](/READM/SRS.png)
 A Software Requirements Specification (SRS) is a document that explains what the software will accomplish and how it will work. It is a formal report that serves as a representation of software and allows customers to assess whether it (SRS) meets their needs. It also outlines the functionality that the product must have in order to meet the needs of all stakeholders. This report is created after all requirements have been solicited and analysed, and it serves as a foundation for software engineering tasks.
 
 ## 6. What is a Feasibility Study?
@@ -52,6 +54,7 @@ A Software Requirements Specification (SRS) is a document that explains what the
 As the name implies, a feasibility study is an analysis or measurement of a software product in terms of how advantageous product development will be for the business in terms of practicality. It determines whether the project is legally, technically, and commercially feasible.
 
 ## 7. What is the testing phase in the SDLC model
+![Testing_Phase](/READM/testing_phase_in_the_SDLC_model.png)
 One of the most important procedures in the Software Development Lifecycle is testing (SDLC). It enables businesses to do a thorough evaluation of software and verify that their product meets the expectations of their customers. The testing procedures' main purpose is to report, monitor, troubleshoot, and retest software components until they meet the quality requirements established in the initial SRS. During the testing phase, there are numerous forms of testing, including quality assurance testing (QA), system integration testing (SIT), and user acceptability testing (UAT).
 
 ## 8. Which SDLC model is best and Why
@@ -81,6 +84,7 @@ The Software Development Life Cycle (SDLC) release phase is historically connect
 This document captures the user's voice from the outside, or the end user's perspective. A Business System Analyst creates it (BSA). This paper demonstrates how a system will react when a user interacts with it in order to meet the BRD and SRD standards. The key area of interest for software experts is the Functional Requirement Specification (FRS). An FRS is useful for software testers to learn the situations in which the product is intended to be tested, just as it is for developers to understand what product they are planning to produce. An FRS's ultimate purpose is to meet all of the requirements outlined in the SRS and BRS regulations.
 
 ## 4. Explain prototyping in SDLC process
+![Prototyping](/READM/prototyping_in_SDLC_process.png)
 Building software application prototypes that display the capabilities of the product under development, but may not have the exact logic of the original software, is referred to as software prototyping. It's built, tested, and revised until it's deemed suitable as a prototype. It also serves as a foundation for the final system or programme. It's best used in situations where the project's requirements aren't fully understood. Software prototyping is gaining popularity as a software development strategy because it allows for an early understanding of customer requirements.
 
 ## 5. What are different types of prototype model
@@ -97,6 +101,8 @@ The DDLC (Documentation Development Life Cycle) is a software documentation deve
 Context Diagram is another name for DFD Level 0. It's a high-level overview of the entire system or process that's being studied or modelled. It's meant to be a quick peek into the system, displaying it as a single high-level process with its connections to external entities. Stakeholders, business analysts, data analysts, and developers should all be able to understand it readily.
 
 ## 8. What is Capability Maturity Model
+![capability_maturity](/READM/Capability_Maturity_Model.png)
+
 The Capability Maturity Model (CMM) is a cross-discipline and technical paradigm for facilitating and refining software development processes and system improvement. This methodology is at the heart of most management systems that aim to improve the quality of all product and service development and delivery.
 
 ## 9. What are Capability Maturity Model(CMM) levels
